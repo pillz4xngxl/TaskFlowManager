@@ -1,0 +1,13 @@
+modelos\Prioridad.class
+modelos\AccionCambio.class
+estructuras\Cola.class
+estructuras\ListaSimple.class
+ui\Main.class
+modelos\Tarea.class
+pruebas\PruebasEstructuras.class
+estructuras\NodoDouble.class
+servicios\GestorTareas.class
+modelos\Estado.class
+estructuras\ListaDoble.class
+ui\MenuConsola.class
+estructuras\Pila.class
